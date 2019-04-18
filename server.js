@@ -16,7 +16,7 @@
 
 
  /* Server */
- const APP_PORT = 3000;
+ const APP_PORT = 7000;
  const app = express();
 
  app.use((req, res, next)=> {
